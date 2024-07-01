@@ -1,5 +1,5 @@
-# Website Profil Kelurahan Oetete-v1.3
-**Akses Aplikasi**: Buka web browser dan akses [Website Profil Kelurahan Oetete](https://website-profil-oetete-1-3-umkm.vercel.app/).
+# Website Profil Kelurahan Oebufu-v1.3
+**Akses Aplikasi**: Buka web browser dan akses [Website Profil Kelurahan Oebufu]().
 ## 📕Table of Contents
 
 - [Introduction](#introduction)
@@ -14,13 +14,13 @@
 
 ## Introduction
 
-**Website Profil Kelurahan Oetete-v1.3** adalah proyek berbasis Node.js yang memanfaatkan berbagai paket untuk pengembangan web, termasuk Express untuk penanganan sisi server, Mongoose untuk interaksi dengan MongoDB, dan Sequelize untuk interaksi dengan database SQL. Sistem ini bertujuan untuk menyediakan profil lengkap kelurahan Oetete, termasuk informasi tentang UMKM, kegiatan Kelurahan, statistik, dan berbagai layanan yang tersedia.
+**Website Profil Kelurahan Oebufu-v1.3** adalah proyek berbasis Node.js yang memanfaatkan berbagai paket untuk pengembangan web, termasuk Express untuk penanganan sisi server, Mongoose untuk interaksi dengan MongoDB, dan Sequelize untuk interaksi dengan database SQL. Sistem ini bertujuan untuk menyediakan profil lengkap kelurahan Oebufu, termasuk informasi tentang UMKM, kegiatan Kelurahan, statistik, dan berbagai layanan yang tersedia.
 
 ### Untuk Developer:
 Website ini dirancang untuk menjadi scalable dan mudah untuk dikelola. Kami menggunakan teknologi terbaru dan praktik terbaik dalam pengembangan web untuk memastikan aplikasi ini aman, cepat, dan mudah untuk dikembangkan lebih lanjut.
 
 ### Untuk User:
-Website ini menyediakan informasi yang komprehensif dan up-to-date tentang Kelurahan Oetete. Pengguna dapat mengakses data UMKM, statistik penduduk, informasi keluarga, serta berbagai kegiatan yang dilakukan di kelurahan. 
+Website ini menyediakan informasi yang komprehensif dan up-to-date tentang Kelurahan Oebufu. Pengguna dapat mengakses data UMKM, statistik penduduk, informasi keluarga, serta berbagai kegiatan yang dilakukan di kelurahan. 
 
 ## ⚙️ Built With
 
