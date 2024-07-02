@@ -1,5 +1,5 @@
 # Website Profil Kelurahan Oebufu-v1.3
-**Akses Aplikasi**: Buka web browser dan akses [Website Profil Kelurahan Oebufu]().
+**Akses Aplikasi**: Buka web browser dan akses [Website Profil Kelurahan Oebufu](https://website-profil-oebufu-umkm.vercel.app/).
 ## 📕Table of Contents
 
 - [Introduction](#introduction)
@@ -42,8 +42,8 @@ Pastikan Anda sudah menginstall software berikut:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/admin-fontein-v1.3.git
-   cd admin-fontein-v1.3
+   git clone https://github.com/Joshtri/website-profil-oebufu-umkm
+   cd website-profil-oebufu-umkm
 1. **Install Packages:**
    ```bash
    $ pnpm install
@@ -85,4 +85,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact:
 - 📧 E-Mail - stuffofyos1516@gmail.com
-- Project Link: https://github.com/Joshtri/fontein-si-umkm-1.3
+- Project Link: https://github.com/Joshtri/website-profil-oebufu-umkm
